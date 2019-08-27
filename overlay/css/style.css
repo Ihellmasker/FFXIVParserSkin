@@ -498,6 +498,14 @@ background:linear-gradient(to right,rgba(145,173,178,.5) 0,rgba(115,151,157,.5) 
 background:linear-gradient(to right,rgba(68,61,157,.5) 0,rgba(52,47,120,.5) 100%);
 }
 
+.Gnb .progBar {
+	background:linear-gradient(to right,rgba(68,61,157,.5) 0,rgba(52,47,120,.5) 100%);
+}
+
+.Dnc .progBar {
+	background:linear-gradient(to right,rgba(68,61,157,.5) 0,rgba(52,47,120,.5) 100%);	
+}
+
 .LimitBreak .progBar {
 background:linear-gradient(to right,rgba(89,89,89,.5) 0,rgba(63,63,63,.5) 100%);
 }
