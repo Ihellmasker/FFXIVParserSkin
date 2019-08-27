@@ -284,7 +284,7 @@ var dataTagsDiscord = {
         display: "<%s>",
         column: "dps",
         minWidth: 4,
-        width: 6,
+        width: 7,
         padLeft: true,
         desc: "DPS"
     },
