@@ -14,7 +14,6 @@ box-sizing:border-box;
 height:100%;
 overflow:hidden;
 background-color:transparent;
-/* background:linear-gradient(to bottom,#606160 0,#343334 60px,); */
 }
 
 body.stream-mode {
@@ -76,14 +75,13 @@ border-bottom:1px dotted rgba(255,255,255,.1);
 }
 
 #combatantWrapper {
-/* background:linear-gradient(to right,rgba(0,0,0,.01) 0,rgba(0,0,0,.65) 10%,rgba(0,0,0,.65) 90%,rgba(0,0,0,0) 100%); */
 height:100%;
 position:relative;
 transition:all .5s;
-background:linear-gradient(to bottom,rgba(96, 97, 96,.8) 0,rgba(52, 51, 52,.90) 60px);
+background: rgba(33,33,33);
 box-shadow:0 0 1px rgba(0,0,0,.6),0 2px 3px rgba(0,0,0,.6);
-border-radius:6px;
-border-top:1px solid #aeacac;
+border-radius:3px;
+border: 1px solid #121212;
 box-sizing: border-box;
 }
 
