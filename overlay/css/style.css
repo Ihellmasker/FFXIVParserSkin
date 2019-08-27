@@ -114,6 +114,7 @@ white-space:nowrap;
 }
 
 #encounter {
+	margin-top: 10px;
 padding:4px 0;
 font-size:14px;
 }
@@ -322,9 +323,9 @@ margin-top:3px;
 position:absolute;
 right:0;
 width:22px;
-height:22px;
+height:10px;
 background:#ed9;
-padding:2px;
+padding:1px;
 border-radius:20px;
 box-shadow:inset 0 0 1px rgba(0,0,0,.75),2px 2px 1px rgba(0,0,0,.5);
 }
