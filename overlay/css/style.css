@@ -14,7 +14,7 @@ box-sizing:border-box;
 height:100%;
 overflow:hidden;
 background-color:transparent;
-background:linear-gradient(to bottom,#606160 0,#343334 60px);
+/* background:linear-gradient(to bottom,#606160 0,#343334 60px,); */
 }
 
 body.stream-mode {
@@ -43,6 +43,7 @@ height:30px;
 background:linear-gradient(to right,rgba(255,255,255,.5) 0,rgba(230,230,230,.5) 100%);
 display:block;
 height:30px;
+border-radius: 0px 25px 25px 0px;
 }
 
 .reduced-size .progBarOutside,.reduced-size .progBarOutside .progBar {
@@ -79,6 +80,11 @@ border-bottom:1px dotted rgba(255,255,255,.1);
 height:100%;
 position:relative;
 transition:all .5s;
+background:linear-gradient(to bottom,rgba(96, 97, 96,.8) 0,rgba(52, 51, 52,.90) 60px);
+box-shadow:0 0 1px rgba(0,0,0,.6),0 2px 3px rgba(0,0,0,.6);
+border-radius:6px;
+border-top:1px solid #aeacac;
+box-sizing: border-box;
 }
 
 #combatantWrapper.auto-hidden {
@@ -159,7 +165,7 @@ font-weight:300;
 }
 
 #subWrapper {
-margin:0 40px;
+margin:0 20px;
 height:100%;
 position:relative;
 }
@@ -191,7 +197,7 @@ height:0;
 #footerWrapper {
 position:absolute;
 width:100%;
-bottom:0;
+bottom:7;
 transition:all .5s;
 height:auto;
 }
@@ -312,7 +318,7 @@ text-shadow:-1px 0 2px #685d35,0 1px 2px #685d35,1px 0 2px #685d35,0 -1px 2px #6
 }
 
 .info-table td:nth-child(2) {
-text-align:right;
+text-align:center;
 }
 
 .reduced-size .info-table {

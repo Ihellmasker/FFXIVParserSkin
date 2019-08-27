@@ -62,7 +62,7 @@ var job_details = {
     "dnc": {
     	role: "dps",
     	name: "Dancer"
-    }
+    },
     "ast": {
         role: "heal",
         name: "Astrologian"
