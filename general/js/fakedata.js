@@ -53,7 +53,7 @@ var ActFakeData24 = {
         "Last60DPS": "2347"
     },
     "Combatant": {
-        "Monk One": {
+        "Gunbreaker One": {
             "n": "\n",
             "t": "\t",
             "name": "YOU",
@@ -123,7 +123,7 @@ var ActFakeData24 = {
             "Last10DPS": "0",
             "Last30DPS": "95",
             "Last60DPS": "292",
-            "Job": "Mnk",
+            "Job": "Gnb",
             "ParryPct": "9%",
             "BlockPct": "0%",
             "IncToHit": "100.00",
@@ -2713,7 +2713,7 @@ var ActFakeData4 = {
             "Last10DPS": "0",
             "Last30DPS": "293",
             "Last60DPS": "354",
-            "Job": "Brd",
+            "Job": "Gnb",
             "ParryPct": "50%",
             "BlockPct": "0%",
             "IncToHit": "100.00",
@@ -2786,7 +2786,7 @@ var ActFakeData4 = {
             "Last10DPS": "0",
             "Last30DPS": "168",
             "Last60DPS": "353",
-            "Job": "Drg",
+            "Job": "Dnc",
             "ParryPct": "55%",
             "BlockPct": "0%",
             "IncToHit": "100.00",
